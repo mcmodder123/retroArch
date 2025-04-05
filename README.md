@@ -1,2 +1,2 @@
 # retroArch
-Retro Arch Linux Distro
+a bash script to convert an arch installation to retro version of arch installation.
